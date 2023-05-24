@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "84d85f87-2d80-485f-be03-3bed89a4453e",
+		"name": "Appointment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GETBYID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE",
+			"request": {
+				"method": "DELETE",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET_ALLAppiontment",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST",
+			"request": {
+				"method": "POST",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
